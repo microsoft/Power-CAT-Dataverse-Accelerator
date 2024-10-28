@@ -12,10 +12,10 @@ Before installing the Dataverse Accelerator Extensions, ensure that you have the
 - User Permissions: Appropriate permissions to install and manage extensions within the Power Platform environment.
 
 ## Installation instructions
-Access AppSource: Navigate to the AppSource marketplace from your Power Platform environment.
-Search for Dataverse Accelerator Extensions: Use the search bar to find the Dataverse Accelerator Extensions offering.
-Select and Install: Click on the offering and select the "Install" button. Follow the on-screen instructions to complete the installation process.
-Configure Extensions: Once installed, navigate to the Dataverse Accelerator Extensions settings within your Power Platform environment to configure the newly added features.
+1. Access AppSource: Navigate to the AppSource marketplace from your Power Platform environment.
+1. Search for Dataverse Accelerator Extensions: Use the search bar to find the Dataverse Accelerator Extensions offering.
+1. Select and install: Click on the offering and select the "Install" button. Follow the on-screen instructions to complete the installation process.
+1. Use features: Once installed, navigate to the Dataverse Accelerator Extension feature within the Dataverse Accelerator interface to access the newly added features.
 
 ## Usage and Configuration
 After installation, users can access the new features through the Dataverse Accelerator interface. The Prompt Advisor and other tools will be available for use, providing enhanced functionality and improved user experience.
